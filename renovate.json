@@ -6,7 +6,8 @@
       "matchHost": "maven.pkg.github.com",
       "hostType": "maven",
       "username": "LRNcardozoWDF",
-      "password": "{{GITHUB_PACKAGES_TOKEN}}"
+      "password": "{{GITHUB_PACKAGES_TOKEN}}",
+      "encrypted": true
     }
   ],
   "packageRules": [
