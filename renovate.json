@@ -1,11 +1,16 @@
-
 {
-  "extends": ["config:base"],
+  "extends": [
+    "config:recommended"
+  ],
   "packageRules": [
     {
-      "matchPackageNames": ["com.example:sdk"],
+      "matchPackageNames": [
+        "com.example:sdk"
+      ],
       "groupName": "Mendra SDK",
-      "schedule": ["at any time"]
+      "schedule": [
+        "at any time"
+      ]
     }
   ]
 }
