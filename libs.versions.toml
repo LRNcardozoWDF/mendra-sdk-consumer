@@ -1,6 +1,6 @@
 
 [versions]
-sdk = "1.0.1-test1"
+sdk = "1.0.1-2451-48134927"
 
 [libraries]
 sdk= { module = "com.example:sdk", version.ref = "sdk" }
